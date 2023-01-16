@@ -1,4 +1,7 @@
 """
+최소비용 구하기 {다익스트라, 경로출력}
+https://www.acmicpc.net/problem/11779
+
 5
 8
 1 2 2
