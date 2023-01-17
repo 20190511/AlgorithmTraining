@@ -7,7 +7,7 @@
 3. BOJ-2293 : [동전1](https://www.acmicpc.net/problem/2293)
 4. BOJ-2294 : [동전2](https://www.acmicpc.net/problem/2294)
 ---
-## 그래프
+## 그래프 (Graph)
 ### 다익스트라 (Dijkstra)
 1. BOJ-11779 : [최소비용 구하기2](https://www.acmicpc.net/problem/11779)
 ### 플로이드-워샬 (Floyd-Warshall)
