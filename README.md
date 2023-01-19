@@ -1,5 +1,5 @@
 # AlgorithmTraining
-교재 외 백준 풀이
+# 백준 및 프로그래머스 풀이 모음집
 ---
 ## Dynamic Programming (DP)
 1. BOJ-9251 : [LCS](https://www.acmicpc.net/problem/9251)
