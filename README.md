@@ -18,4 +18,9 @@
 ---
 ## 구현
 1. BOJ-3190 : [뱀](https://www.acmicpc.net/problem/3190)
+2. BOJ-18406 : [럭키스트레이트](https://www.acmicpc.net/problem/18406)
+3. BOJ-15686 : [치킨배달](https://www.acmicpc.net/problem/15686)
+4. PS-60057 : [문자열압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)
+5. PS-60059 : [자물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059)
+6. PS-60061 : [기둥과 보 설치](https://school.programmers.co.kr/learn/courses/30/lessons/60061)
 ---
