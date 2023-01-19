@@ -16,7 +16,7 @@
 ## 수학 (math)
 1. BOJ-1007 : [벡터 매칭 : Combinations+math.sqrt()](https://www.acmicpc.net/problem/1007)
 ---
-## 구현
+## 구현 (Realizng)
 1. BOJ-3190 : [뱀](https://www.acmicpc.net/problem/3190)
 2. BOJ-18406 : [럭키스트레이트](https://www.acmicpc.net/problem/18406)
 3. BOJ-15686 : [치킨배달](https://www.acmicpc.net/problem/15686)
