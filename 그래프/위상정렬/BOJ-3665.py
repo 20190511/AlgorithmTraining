@@ -21,7 +21,10 @@ https://www.acmicpc.net/problem/3665
     중요문법!
         그래프에 list를 변경시키면서 넣고싶은 경우 .copy()를 꼭 넣어야 한다.
             graph.append(lists.copy())
-    
+
+[답지피드백]
+  1. 그래프를 생성할 때, 2차원리스트 그래프를 만들면 아래 ranks 과정을 없앨 수 있다.
+  2. 큐에 데이터를 넣을 때 2개이상 들어간다 == while을 돌릴 떄 queue의 데이터가 2개이상이다.
 """
 
 import sys
