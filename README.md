@@ -12,6 +12,8 @@
 1. BOJ-11779 : [최소비용 구하기2](https://www.acmicpc.net/problem/11779)
 ### 플로이드-워샬 (Floyd-Warshall)
 1. BOJ-11404 : [플로이드](https://www.acmicpc.net/problem/11404)
+### 위상정렬 : (Topological)
+1. [BOJ-1005](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B7%B8%EB%9E%98%ED%94%84/%EC%9C%84%EC%83%81%EC%A0%95%EB%A0%AC/BOJ-1005.py) : [ARM Craft](https://www.acmicpc.net/problem/1005)
 ---
 ## 수학 (math)
 1. BOJ-1007 : [벡터 매칭 : Combinations+math.sqrt()](https://www.acmicpc.net/problem/1007)
