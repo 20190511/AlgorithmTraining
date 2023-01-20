@@ -14,12 +14,12 @@
 1. [플로이드](https://www.acmicpc.net/problem/11404) : [BOJ-11404](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B7%B8%EB%9E%98%ED%94%84/%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%9B%8C%EC%83%AC/BOJ-11404.py)
 ### 위상정렬 : (Topological)
 1. [ARM Craft](https://www.acmicpc.net/problem/1005) : [BOJ-1005](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B7%B8%EB%9E%98%ED%94%84/%EC%9C%84%EC%83%81%EC%A0%95%EB%A0%AC/BOJ-1005.py)
-2. [최종 순위](https://www.acmicpc.net/problem/3665):[BOJ-3665](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B7%B8%EB%9E%98%ED%94%84/%EC%9C%84%EC%83%81%EC%A0%95%EB%A0%AC/BOJ-3665.py)
+2. [최종 순위](https://www.acmicpc.net/problem/3665) : [BOJ-3665](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B7%B8%EB%9E%98%ED%94%84/%EC%9C%84%EC%83%81%EC%A0%95%EB%A0%AC/BOJ-3665.py)
 ### 크루스칼 : (Kruskal)
 1. [행성 터널](https://www.acmicpc.net/problem/2887) : [BOJ-2887](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B7%B8%EB%9E%98%ED%94%84/%ED%81%AC%EB%A3%A8%EC%8A%A4%EC%B9%BC/BOJ-2887.py) + [BOJ-2887 간선 최소화 과정 풀이 설명](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B7%B8%EB%9E%98%ED%94%84/%ED%81%AC%EB%A3%A8%EC%8A%A4%EC%B9%BC/BOJ-2887(%ED%96%89%EC%84%B1%20%ED%84%B0%EB%84%90)%20%ED%92%80%EC%9D%B4%EC%A0%95%EB%A6%AC.pdf)
 ---
 ## 수학 (math)
-1. [벡터 매칭 : Combinations+math.sqrt()](https://www.acmicpc.net/problem/1007) : [BOJ-1007](https://github.com/20190511/AlgorithmTraining/blob/main/%EC%88%98%ED%95%99/BOJ-1007.py)
+1. [벡터 매칭|Combinations+math.sqrt()](https://www.acmicpc.net/problem/1007) : [BOJ-1007](https://github.com/20190511/AlgorithmTraining/blob/main/%EC%88%98%ED%95%99/BOJ-1007.py)
 ---
 ## 구현 (Realizng)
 1. [뱀](https://www.acmicpc.net/problem/3190) : [BOJ-3190](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B5%AC%ED%98%84/BOJ-3190.py)
