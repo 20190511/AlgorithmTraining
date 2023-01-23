@@ -1,3 +1,13 @@
+"""
+반례
+4 0 3 5
+0 1 0
+0 3 5
+0 3 5
+1 2 0
+2 1 0
+0 5 5 10
+"""
 import sys
 from collections import deque
 input = sys.stdin.readline
