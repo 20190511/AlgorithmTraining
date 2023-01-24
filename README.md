@@ -2,10 +2,12 @@
 # 백준 및 프로그래머스 풀이 모음집
 ---
 ## Dynamic Programming (DP)
+0. [합이 가장 큰 부분수열](https://github.com/20190511/AlgorithmTraining/blob/main/DP/%ED%95%A9%EC%9D%B4%EA%B0%80%EC%9E%A5%ED%81%B0%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4.py)
 1. [LCS](https://www.acmicpc.net/problem/9251) : [BOJ-9251](https://github.com/20190511/AlgorithmTraining/blob/main/DP/BOJ-9251.py)
 2. [동전](https://www.acmicpc.net/problem/9084) : [BOJ-9084](https://github.com/20190511/AlgorithmTraining/blob/main/DP/BOJ-9084.py) 
 3. [동전1](https://www.acmicpc.net/problem/2293) : [BOJ-2293](https://github.com/20190511/AlgorithmTraining/blob/main/DP/BOJ-2293.py)
 4. [동전2](https://www.acmicpc.net/problem/2294) : [BOJ-2294](https://github.com/20190511/AlgorithmTraining/blob/main/DP/BOJ-2294.py)
+5. [가장 긴 증가하는 부분 수열4](https://www.acmicpc.net/problem/14002) : [BOJ-14002](https://github.com/20190511/AlgorithmTraining/blob/main/DP/BOJ-14002.py)
 ---
 ## 그래프 (Graph)
 ### 다익스트라 (Dijkstra)
