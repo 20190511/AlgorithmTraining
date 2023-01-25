@@ -6,9 +6,8 @@ if graph[i][j] == 1:
     
 [피드백]
  : 처음에 maxs를 0으로 reset 했는 실수
-    -> 데이터가 1 by ? 이거나 ? by 1 (? is don't care) 이면 for문을 돌지않아
-        maxs가 그대로 0으로 들어가므로,
-        input 데이터를 받을 때, check를 둬서 1이하나라도 들어오면 maxs를 1로 초기화 시켜주자.
+    -> 데이터가 1 by X 이거나 X by 1 (X is don't care) 이면 for문을 돌지않아서 maxs가 0으로 초기화되버리는 경우가발생한다.
+        그래서 input 데이터를 받을 때, check를 둬서 1이하나라도 들어오면 maxs를 1로 초기화 시켜줘서 해결하였다.
 
 2 4 
 1111 
