@@ -32,4 +32,5 @@
 4. [문자열압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057) : [PS-60057](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B5%AC%ED%98%84/PS-60057.py)
 5. [자물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059) : [PS-60059](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B5%AC%ED%98%84/PS-60059.py)
 6. [기둥과 보 설치](https://school.programmers.co.kr/learn/courses/30/lessons/60061) : [PS-60061](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B5%AC%ED%98%84/PS-60061.py)
+7. [하늘에서 별똥별이 빗발친다](https://www.acmicpc.net/problem/14658) : [BOJ-14658](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B5%AC%ED%98%84/BOJ-14658.py)
 ---
