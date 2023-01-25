@@ -35,3 +35,7 @@
 6. [기둥과 보 설치](https://school.programmers.co.kr/learn/courses/30/lessons/60061) : [PS-60061](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B5%AC%ED%98%84/PS-60061.py)
 7. [하늘에서 별똥별이 빗발친다](https://www.acmicpc.net/problem/14658) : [BOJ-14658](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B5%AC%ED%98%84/BOJ-14658.py)
 ---
+## 탐색 (Searching)
+### BFS (Breadth Find Searching)
+1. [토마토](https://www.acmicpc.net/problem/7576) : [BOJ-7576](https://github.com/20190511/AlgorithmTraining/blob/main/%ED%83%90%EC%83%89/BFS/BOJ-7576.py)
+---
