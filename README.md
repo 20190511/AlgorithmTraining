@@ -9,6 +9,7 @@
 4. [동전2](https://www.acmicpc.net/problem/2294) : [BOJ-2294](https://github.com/20190511/AlgorithmTraining/blob/main/DP/BOJ-2294.py)
 5. [가장 긴 증가하는 부분 수열4](https://www.acmicpc.net/problem/14002) : [BOJ-14002](https://github.com/20190511/AlgorithmTraining/blob/main/DP/BOJ-14002.py)
 6. [가장 큰 정사각형](https://www.acmicpc.net/problem/1915) : [BOJ-1915](https://github.com/20190511/AlgorithmTraining/blob/main/DP/BOJ-1915.py)
+7. [팰린드롬?](https://www.acmicpc.net/problem/10942) : [BOJ-10942](https://github.com/20190511/AlgorithmTraining/blob/main/DP/BOJ-10942.py)
 ---
 ## 그래프 (Graph)
 ### 다익스트라 (Dijkstra)
