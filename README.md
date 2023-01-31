@@ -1,6 +1,14 @@
 # AlgorithmTraining
 # 백준 및 프로그래머스 풀이 모음집
 ---
+# 문제집 
+1. [DFS/DFS](https://www.acmicpc.net/workbook/view/7313)
+2. [시뮬레이션(구현)](https://www.acmicpc.net/workbook/view/7316)
+3. [DP](https://www.acmicpc.net/workbook/view/7319)
+4. [다익스트라/벨만포드/플로이드워샬]()
+5. [그래프](https://www.acmicpc.net/workbook/view/9562), [크루스칼](https://www.acmicpc.net/workbook/view/9907), [위상 정렬](https://www.acmicpc.net/workbook/view/9738)
+6. [그리디](https://www.acmicpc.net/workbook/view/7320)
+---
 ## Dynamic Programming (DP)
 0. [합이 가장 큰 부분수열](https://github.com/20190511/AlgorithmTraining/blob/main/DP/%ED%95%A9%EC%9D%B4%EA%B0%80%EC%9E%A5%ED%81%B0%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4.py)
 1. [LCS](https://www.acmicpc.net/problem/9251) : [BOJ-9251](https://github.com/20190511/AlgorithmTraining/blob/main/DP/BOJ-9251.py)
