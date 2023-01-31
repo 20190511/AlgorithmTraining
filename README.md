@@ -19,6 +19,7 @@
 6. [가장 큰 정사각형](https://www.acmicpc.net/problem/1915) : [BOJ-1915](https://github.com/20190511/AlgorithmTraining/blob/main/DP/BOJ-1915.py)
 7. [팰린드롬?](https://www.acmicpc.net/problem/10942) : [BOJ-10942](https://github.com/20190511/AlgorithmTraining/blob/main/DP/BOJ-10942.py)
 8. [★색상환](https://www.acmicpc.net/problem/2482) : [BOJ-2482](https://github.com/20190511/AlgorithmTraining/blob/main/DP/BOJ-2482.py)
+9. [자두나무](https://www.acmicpc.net/problem/2240) : [BOJ-2240](https://github.com/20190511/AlgorithmTraining/blob/main/DP/BOJ-2240.py)
 <br>7-A. DP 정리
 ---
 ## 그래프 (Graph)
