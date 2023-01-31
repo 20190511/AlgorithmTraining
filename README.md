@@ -10,6 +10,7 @@
 5. [가장 긴 증가하는 부분 수열4](https://www.acmicpc.net/problem/14002) : [BOJ-14002](https://github.com/20190511/AlgorithmTraining/blob/main/DP/BOJ-14002.py)
 6. [가장 큰 정사각형](https://www.acmicpc.net/problem/1915) : [BOJ-1915](https://github.com/20190511/AlgorithmTraining/blob/main/DP/BOJ-1915.py)
 7. [팰린드롬?](https://www.acmicpc.net/problem/10942) : [BOJ-10942](https://github.com/20190511/AlgorithmTraining/blob/main/DP/BOJ-10942.py)
+8. [★색상환](https://www.acmicpc.net/problem/2482) : [BOJ-2482](https://github.com/20190511/AlgorithmTraining/blob/main/DP/BOJ-2482.py)
 <br>7-A. DP 정리
 ---
 ## 그래프 (Graph)
