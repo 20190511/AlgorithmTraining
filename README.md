@@ -22,7 +22,7 @@
 9. [자두나무](https://www.acmicpc.net/problem/2240) : [BOJ-2240](https://github.com/20190511/AlgorithmTraining/blob/main/DP/BOJ-2240.py)
 10. [암호코드](https://www.acmicpc.net/problem/2011) : [BOJ-2011](https://github.com/20190511/AlgorithmTraining/blob/main/DP/BOJ-2011.py)
 11. [욕심쟁이 판다:DFS+memoization (최장길이)](https://www.acmicpc.net/problem/1937) : [BOJ-1937](https://github.com/20190511/AlgorithmTraining/blob/main/DP/BOJ-1937.py)
-12 [내리막 길:DFS+memoization (경로 수)](https://www.acmicpc.net/problem/1520) : [BOJ-1520](https://github.com/20190511/AlgorithmTraining/blob/main/DP/BOJ-1520.py)
+12. [내리막 길:DFS+memoization (경로 수)](https://www.acmicpc.net/problem/1520) : [BOJ-1520](https://github.com/20190511/AlgorithmTraining/blob/main/DP/BOJ-1520.py)
 <br>7-A. DP 정리
 ---
 ## 그래프 (Graph)
