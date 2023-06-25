@@ -55,6 +55,7 @@
 7. [하늘에서 별똥별이 빗발친다](https://www.acmicpc.net/problem/14658) : [BOJ-14658](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B5%AC%ED%98%84/BOJ-14658.py)
 8. [어른 상어](https://www.acmicpc.net/problem/19237) : [BOJ-19237](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B5%AC%ED%98%84/BOJ-19237.py)
 9. [감시](https://www.acmicpc.net/problem/15683) : [BOJ-15683_C++](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B5%AC%ED%98%84/BOJ-15683.cpp)
+10. [나무 재테크](https://www.acmicpc.net/problem/16235) : [BOJ-16235_C++](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B5%AC%ED%98%84/BOJ-16235.cpp)
 ---
 ## 탐색 (Searching)
 ### BFS (Breadth Find Searching)
