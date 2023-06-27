@@ -1,3 +1,15 @@
+/**
+    1. (주의!) DFS 재귀호출을 할 때 메모리 초기화를 시켜주는 부분에서 자주 실수하는 부분들이 있다.
+        A. for 문을 돌릴 때 재귀호출 후 memcpy를 해주자.
+        B. ★ 중요한 점은, 배열만 복사하는게 아니라 재귀호출의 인자들의 요소들을 모두 복사해줘야함 (즉, 여기선 pos도 복사해줘야함)
+        ex>  
+            memcpy(cpy, miro, 100);
+            memcpy(set, back_pos, sizeof(pos) * 2);
+    2. DFS에서 값을 찾지 못했을 때 for문 안에 있는 구문이라면 "return 이 아니라 Continue" 가 일반적으로 맞다.
+            >> 왜냐면 일반적으로 for문은 계속 돌려줘야하기 때문에 continue를 해줘야한다. 여기서도 memcpy를 꼭 해줄 것.
+**/
+
+
 #include <iostream>
 #include <string>
 #include <cstring>
