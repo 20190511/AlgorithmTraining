@@ -30,7 +30,7 @@
 1. [최소비용 구하기2](https://www.acmicpc.net/problem/11779) : [BOJ-11779](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B7%B8%EB%9E%98%ED%94%84/%EB%8B%A4%EC%9D%B5%EC%8A%A4%ED%8A%B8%EB%9D%BC/BOJ-11779.py)
 2. [최단경로](https://www.acmicpc.net/problem/1753) : [BOJ-1753](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B7%B8%EB%9E%98%ED%94%84/%EB%8B%A4%EC%9D%B5%EC%8A%A4%ED%8A%B8%EB%9D%BC/BOJ-1753.py)
 3. [트리의 지름](https://www.acmicpc.net/problem/1167) : [BOJ-1167](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B7%B8%EB%9E%98%ED%94%84/%EB%8B%A4%EC%9D%B5%EC%8A%A4%ED%8A%B8%EB%9D%BC/BOJ-1167.py)
-4. [특별한 최단 경로](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B7%B8%EB%9E%98%ED%94%84/%EB%8B%A4%EC%9D%B5%EC%8A%A4%ED%8A%B8%EB%9D%BC/BOJ-1504.cpp)
+4. [특별한 최단 경로](https://www.acmicpc.net/problem/1504) : [BOJ-1504](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B7%B8%EB%9E%98%ED%94%84/%EB%8B%A4%EC%9D%B5%EC%8A%A4%ED%8A%B8%EB%9D%BC/BOJ-1504.cpp)
 ### 밸만포드 (Bellman-Ford)
 1. [오민식의 고민](https://www.acmicpc.net/problem/1219) : [BOJ-1219](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B7%B8%EB%9E%98%ED%94%84/%EB%B0%B8%EB%A7%8C%ED%8F%AC%EB%93%9C/BOJ-1219.py "인접행렬"), [BOJ-1219(2)](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B7%B8%EB%9E%98%ED%94%84/%EB%B0%B8%EB%A7%8C%ED%8F%AC%EB%93%9C/BOJ-1219(2).py "인접리스트Base+인접행렬")
 ### 플로이드-워샬 (Floyd-Warshall)
