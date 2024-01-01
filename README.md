@@ -60,7 +60,7 @@
 10. [나무 재테크](https://www.acmicpc.net/problem/16235) : [BOJ-16235_C++](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B5%AC%ED%98%84/BOJ_16235.cpp)
 11. [치즈](https://www.acmicpc.net/problem/2638) : [BOJ-2638_C++](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B5%AC%ED%98%84/BOJ_2638.cpp)
 12. [구슬 탈출2](https://www.acmicpc.net/problem/13460) : [BOJ_13460_c++](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B5%AC%ED%98%84/BOJ_13460.cpp)
-13. [2048(Easy)](https://www.acmicpc.net/problem/12100) : [BOJ-12100_c++](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B5%AC%ED%98%84/BOJ-12100.cpp)[BOJ_12100_c++II](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B5%AC%ED%98%84/BOJ-12100_2.cpp)
+13. [2048(Easy)](https://www.acmicpc.net/problem/12100) : [BOJ-12100_c++](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B5%AC%ED%98%84/BOJ-12100.cpp), [BOJ_12100_c++II](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B5%AC%ED%98%84/BOJ-12100_2.cpp)
 ---
 ## 탐색 (Searching)
 ### BFS (Breadth Find Searching)
