@@ -61,7 +61,7 @@
 11. [치즈](https://www.acmicpc.net/problem/2638) : [BOJ-2638_C++](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B5%AC%ED%98%84/BOJ_2638.cpp)
 12. [구슬 탈출2](https://www.acmicpc.net/problem/13460) : [BOJ_13460_c++](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B5%AC%ED%98%84/BOJ_13460.cpp)
 13. [2048(Easy)](https://www.acmicpc.net/problem/12100) : [BOJ-12100_c++](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B5%AC%ED%98%84/BOJ-12100.cpp), [BOJ_12100_c++II](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B5%AC%ED%98%84/BOJ-12100_2.cpp)
-14. [로봇 총소기](https://www.acmicpc.net/problem/14503) : [BOJ-14503_c++](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B5%AC%ED%98%84/BOJ-14503.cpp)
+14. [로봇 청소기](https://www.acmicpc.net/problem/14503) : [BOJ-14503_c++](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B5%AC%ED%98%84/BOJ-14503.cpp)
 ---
 ## 탐색 (Searching)
 ### BFS (Breadth Find Searching)
