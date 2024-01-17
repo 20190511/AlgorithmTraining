@@ -67,6 +67,7 @@
 17. [사다리 조작](https://www.acmicpc.net/problem/15684) : [BOJ-15684_c++ => 실수 교훈](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B5%AC%ED%98%84/BOJ-15684.cpp)
 18. [드래곤 커브](https://www.acmicpc.net/problem/15685) : [BOJ-15685_c++ => 회전문제에 대한 교훈](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B5%AC%ED%98%84/BOJ-15685.cpp)
 19. [미세먼지 안녕!](https://www.acmicpc.net/problem/17144) : [BOJ-17144_c++](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B5%AC%ED%98%84/BOJ-17144.cpp)
+20. [낚시왕](https://www.acmicpc.net/problem/17143) : [BOJ-17143_c++ 좌표이동 관련 구현 테크닉](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B5%AC%ED%98%84/BOJ-17143.cpp)
 ---
 ## 탐색 (Searching)
 ### BFS (Breadth Find Searching)
