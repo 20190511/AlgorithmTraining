@@ -1,3 +1,24 @@
+//1105 ~ 1240
+/**
+ * 가변 조합 DFS 풀이법
+ *      : int 조합 배열을 둔다 : 백트래킹 방식으로 true 재귀호출 false 문으로 처리한다. (Good)
+ --------------------------------
+void run(int s, int activeCount) {
+    if (activeCount != m) {
+        for (int x = s ; x < virusCount ; x++)  {
+            selectVirus[x] = true;
+            run(x+1, activeCount+1);
+            selectVirus[x] = false;
+        }
+    }
+-----------------------------------
+ *
+ * 반례가 좀 많이 빡셌던 문제
+ *  --> 문제조건에서 가만히 있는 바이러스도 고려를 해주어야 하나, 해당 바이러스를 탐색했을 때 시점의 시각은 제외해줘야한다!
+ * 
+ * 실수 :
+ *  디버깅용으로 경계 체크한다는것 때문에 OutOfIndex가 발생
+*/
 #include <iostream>
 #include <queue>
 using namespace std;
