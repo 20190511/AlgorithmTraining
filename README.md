@@ -76,6 +76,7 @@
 2. [불!](https://www.acmicpc.net/problem/4179) : [BOJ-4179](https://github.com/20190511/AlgorithmTraining/blob/main/%ED%83%90%EC%83%89/BFS/BOJ-4179.py)
 3. [아기 상어](https://www.acmicpc.net/problem/16236) : [BOJ-16236](https://github.com/20190511/AlgorithmTraining/blob/main/%ED%83%90%EC%83%89/BFS/BOJ-16236.py)
 4. [적록색맹](https://www.acmicpc.net/problem/10026) : [BOJ-10026_C++](https://github.com/20190511/AlgorithmTraining/blob/main/%ED%83%90%EC%83%89/BFS/BOJ-10026.cpp)
+5. [연구소 3](https://www.acmicpc.net/problem/17142) : [BOJ-17142_C++ 조합구현 + 반례처리](https://github.com/20190511/AlgorithmTraining/blob/main/%ED%83%90%EC%83%89/BFS/BOJ-17142.cpp)
 ### DFS (Depth Find Searching)
 1. [청소년 상어](https://www.acmicpc.net/problem/19236) : [BOJ-19236](https://github.com/20190511/AlgorithmTraining/blob/main/%ED%83%90%EC%83%89/DFS/BOJ-19236.py)
 2. [연구소](https://www.acmicpc.net/problem/14502) : [BOJ-14502(combinations)](https://github.com/20190511/AlgorithmTraining/blob/main/%ED%83%90%EC%83%89/DFS/BOJ-14502.py), [BOJ-14502(재귀함수)](https://github.com/20190511/AlgorithmTraining/blob/main/%ED%83%90%EC%83%89/DFS/BOJ-14502(%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98).py)
