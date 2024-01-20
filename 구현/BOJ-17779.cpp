@@ -5,33 +5,20 @@ using namespace std;
 int map[20][20];
 int n, totalMan = 0, result = 0x7FFFFFFF;
 
-void printMap(int map[20][20]) {
-    cout<<"======="<<endl;
-    for (int i = 0 ; i < n ; i++) {
-        for (int j = 0 ; j < n ; j++) {
-            cout<<map[i][j]<<" ";
-        }
-        cout<<endl;
-    }
-
-}
 
 void simulator(int x, int y, int d1, int d2) {
     int i,j;
-    int maps[20][20] = {0,};
     int manCount[5] = {0,};
     int maxVal = -1, minVal = 0x7FFFFFFF;
 
     for (i = 0 ; i < x+d1 ; i++) {
         for (j = 0 ; j <= y ; j++) {
             manCount[0] += map[i][j];
-            maps[i][j] = 1;
         }
 
         if (i >= x) {
             for (j = y-(i-x) ; j <= y ; j++) {
                 manCount[0] -= map[i][j];
-                maps[i][j] = 5;
             }
         }
     }
@@ -41,12 +28,10 @@ void simulator(int x, int y, int d1, int d2) {
     for (i = 0 ; i <= x+d2 ; i++) {
         for (j = y+1 ; j < n ; j++) {
             manCount[1] += map[i][j];
-            maps[i][j] = 2;
         }
         if (i >= x) {
             for (j = y+1 ; j <= y+(i-x) ; j++) {
                 manCount[1] -= map[i][j];
-                maps[i][j] = 5;
             }
         }
     }
@@ -56,11 +41,9 @@ void simulator(int x, int y, int d1, int d2) {
     for (i = x+d1 ; i < n ; i++) {
         for (j = 0 ; j < y-d1+d2 ; j++) {
             manCount[2] += map[i][j];
-            maps[i][j] = 3;
         }
 
         for (j = y-d1+(i-x-d1) ; j < y-d1+d2 ; j++) {
-            maps[i][j] = 5;
             manCount[2] -= map[i][j];
         }
     }
@@ -70,11 +53,9 @@ void simulator(int x, int y, int d1, int d2) {
     for (i = x+d2+1 ; i < n ; i++) {
         for (j = y-d1+d2 ; j < n; j++) {
             manCount[3] += map[i][j];
-            maps[i][j] = 4;
         }
 
         for (j = y-d1+d2 ; j <= y+d2-(i-x-d2) ; j++) {
-            maps[i][j] = 5;
             manCount[3] -= map[i][j];
         }
     }
@@ -117,8 +98,6 @@ int main(void)
     }
 
     run();
-    //simulator(2,2,1,1);
-    //simulator(2,4,2,1);
     cout<<result;
     return 0;
 }
