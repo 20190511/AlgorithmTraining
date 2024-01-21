@@ -70,6 +70,7 @@
 20. [낚시왕](https://www.acmicpc.net/problem/17143) : [BOJ-17143_c++ 좌표이동 관련 구현 테크닉](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B5%AC%ED%98%84/BOJ-17143.cpp)
 21. [이차원 배열과 연산자 오버로딩](https://www.acmicpc.net/problem/17140) : [BOJ-17140_c++ 연산자오버로딩, 범위실수](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B5%AC%ED%98%84/BOJ-17140.cpp)
 22. [게리멘더링 2](https://www.acmicpc.net/problem/17779) : [BOJ-17779_C++ 복잡한 구현 재풀이 추천](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B5%AC%ED%98%84/BOJ-17779.cpp)
+23. [새로운 게임2](https://www.acmicpc.net/problem/17837) : [BOJ-17837](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B5%AC%ED%98%84/BOJ-17779.cpp)
 ---
 ## 탐색 (Searching)
 ### BFS (Breadth Find Searching)
