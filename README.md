@@ -74,6 +74,7 @@
 24. [원판 돌리기](https://www.acmicpc.net/problem/17822) : [BOJ-17822_회전 포인터 풀이 교훈](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B5%AC%ED%98%84/BOJ-17822.cpp)
 25. [주사위 윷놀이](https://www.acmicpc.net/problem/17825) : [BOJ-17825_어려운 구현문제, 실수다수유발](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B5%AC%ED%98%84/BOJ-17825.cpp)
 26. [모노미노도미노2](https://www.acmicpc.net/problem/20061) : [BOJ-20061_c++](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B5%AC%ED%98%84/BOJ-20061.cpp)
+27. [스타트 택시](https://www.acmicpc.net/problem/19238) : [BOJ-19238_c++, BFS 탐색에 대한 교훈이 있음](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B5%AC%ED%98%84/BOJ-19238.cpp)
 ---
 ## 탐색 (Searching)
 ### BFS (Breadth Find Searching)
