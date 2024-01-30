@@ -79,6 +79,7 @@
 28. [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) : [BOJ-20055_C++](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B5%AC%ED%98%84/BOJ-20055.cpp)
 29. [마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056) : [BOJ-20056_C++ 실수다수, 문제이해부족](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B5%AC%ED%98%84/BOJ-20056.cpp)
 30. [마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057) : [BOJ-20057_C++](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B5%AC%ED%98%84/BOJ-20057.cpp)
+31. [마법사 상어와 파이어스톰](https://www.acmicpc.net/problem/20058) : [BOJ-20058_C++](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B5%AC%ED%98%84/BOJ-20058.cpp)
 ---
 ## 탐색 (Searching)
 ### BFS (Breadth Find Searching)
