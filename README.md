@@ -81,6 +81,7 @@
 30. [마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057) : [BOJ-20057_C++](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B5%AC%ED%98%84/BOJ-20057.cpp)
 31. [마법사 상어와 파이어스톰](https://www.acmicpc.net/problem/20058) : [BOJ-20058_C++](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B5%AC%ED%98%84/BOJ-20058.cpp)
 32. [상어 초등학교](https://www.acmicpc.net/problem/21608) : [BOJ-21608_C++, 연산자오버로딩](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B5%AC%ED%98%84/BOJ-21608.cpp)
+33. [상어 중학교](https://www.acmicpc.net/problem/21609) : [BOJ-21609_C++](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B5%AC%ED%98%84/BOJ-21609.cpp)
 ---
 ## 탐색 (Searching)
 ### BFS (Breadth Find Searching)
