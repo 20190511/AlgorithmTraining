@@ -84,7 +84,7 @@
 33. [상어 중학교](https://www.acmicpc.net/problem/21609) : [BOJ-21609_C++](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B5%AC%ED%98%84/BOJ-21609.cpp)
 34. [마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610) : [BOJ-21610_C++](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B5%AC%ED%98%84/BOJ-21610.cpp)
 35. [마법사 상어와 블리자드](https://www.acmicpc.net/problem/21611) : [BOJ-21611_C++(어려운 구현, 문제지문 설명미흡)](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B5%AC%ED%98%84/BOJ-21611.cpp)
-36. [주사위 굴리기 2](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B5%AC%ED%98%84/BOJ-23288.cpp) : [BOJ-23288_C++_BFS Memoization 팁](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B5%AC%ED%98%84/BOJ-23288.cpp)
+36. [주사위 굴리기 2](https://www.acmicpc.net/problem/23288) : [BOJ-23288_C++_BFS Memoization 팁](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B5%AC%ED%98%84/BOJ-23288.cpp)
 ---
 ## 탐색 (Searching)
 ### BFS (Breadth Find Searching)
