@@ -47,6 +47,8 @@
 ## 수학 (math)
 1. [벡터 매칭|Combinations+math.sqrt()](https://www.acmicpc.net/problem/1007) : [BOJ-1007](https://github.com/20190511/AlgorithmTraining/blob/main/%EC%88%98%ED%95%99/BOJ-1007.py)
 2. [신기한 소수 : 소수판별 root까지](https://www.acmicpc.net/problem/2023) : [BOJ-2023_C++](https://github.com/20190511/AlgorithmTraining/blob/main/%EC%88%98%ED%95%99/BOJ-2023.cpp)
+3. [놀이 공원 : SetUnion 문제](https://www.acmicpc.net/problem/1561) : [BOJ-1561](https://github.com/20190511/AlgorithmTraining/blob/main/%EC%88%98%ED%95%99/BOJ-1561.cpp)
+
 ---
 ## 구현 (Realizng)
 1. [뱀](https://www.acmicpc.net/problem/3190) : [BOJ-3190](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B5%AC%ED%98%84/BOJ-3190.py)
