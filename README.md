@@ -91,6 +91,7 @@
 38. [온풍기 안녕!](https://www.acmicpc.net/problem/23289) : [BOJ-23289_C++_중요한 실수함](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B5%AC%ED%98%84/BOJ-23289.cpp)
 39. [마법사 상어와 복제](https://www.acmicpc.net/problem/23290) : [BOJ_C++](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B5%AC%ED%98%84/BOJ-23290.cpp)
 40. [어항 정리](https://www.acmicpc.net/problem/23291) : [BOJ-23291_C++](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B5%AC%ED%98%84/BOJ-23291.cpp)
+41. [큐빙](https://www.acmicpc.net/problem/5373) : [BOJ_5373_C++_어려운구현](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B5%AC%ED%98%84/BOJ-5373.cpp)
 ---
 ## 탐색 (Searching)
 ### BFS (Breadth Find Searching)
