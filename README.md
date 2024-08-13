@@ -94,9 +94,9 @@
 39. [마법사 상어와 복제](https://www.acmicpc.net/problem/23290) : [BOJ_C++](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B5%AC%ED%98%84/BOJ-23290.cpp)
 40. [어항 정리](https://www.acmicpc.net/problem/23291) : [BOJ-23291_C++](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B5%AC%ED%98%84/BOJ-23291.cpp)
 41. [큐빙](https://www.acmicpc.net/problem/5373) : [BOJ_5373_C++_어려운구현](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B5%AC%ED%98%84/BOJ-5373.cpp)
-42. [벽 부수고 이동하기 3](https://www.acmicpc.net/problem/16933): [BOJ-16933_C++](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B5%AC%ED%98%84/BOJ-16933.cpp)
-  a. BFS에서는 Queue와 for문 특성상 다익스트라처럼 거리체크를 할 필요가 없다. 이는 벽 부시기 알고리즘에서도 통용된다.  
-  b. visited[11][1000][1000] 을 visited[10][1000][1000] 으로 두고 틀렸다. 범위 체크에 조금 더 여유를 부리는 것도 좋다.
+42. [벽 부수고 이동하기 3](https://www.acmicpc.net/problem/16933): [BOJ-16933_C++](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B5%AC%ED%98%84/BOJ-16933.cpp)  
+  -- BFS에서는 Queue와 for문 특성상 다익스트라처럼 거리체크를 할 필요가 없다. 이는 벽 부시기 알고리즘에서도 통용된다.  
+  -- visited[11][1000][1000] 을 visited[10][1000][1000] 으로 두고 틀렸다. 범위 체크에 조금 더 여유를 부리는 것도 좋다.  
 ---
 ## 탐색 (Searching)
 ### BFS (Breadth Find Searching)
