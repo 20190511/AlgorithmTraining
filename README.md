@@ -96,7 +96,10 @@
 41. [큐빙](https://www.acmicpc.net/problem/5373) : [BOJ_5373_C++_어려운구현](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B5%AC%ED%98%84/BOJ-5373.cpp)
 42. [벽 부수고 이동하기 3](https://www.acmicpc.net/problem/16933): [BOJ-16933_C++](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B5%AC%ED%98%84/BOJ-16933.cpp)  
   -- BFS에서는 Queue와 for문 특성상 다익스트라처럼 거리체크를 할 필요가 없다. 이는 벽 부시기 알고리즘에서도 통용된다.  
-  -- visited[11][1000][1000] 을 visited[10][1000][1000] 으로 두고 틀렸다. 범위 체크에 조금 더 여유를 부리는 것도 좋다.  
+  -- visited[11][1000][1000] 을 visited[10][1000][1000] 으로 두고 틀렸다. 범위 체크에 조금 더 여유를 부리는 것도 좋다.
+43. [확장 게임](https://www.acmicpc.net/problem/16920) : [BOJ-16920_C++](https://github.com/20190511/AlgorithmTraining/blob/main/%EA%B5%AC%ED%98%84/BOJ-16920.cpp)  
+  -- 반복해가며 BFS 를 돌리는 문제인데 시간초과 위험이 있다.  
+  -- 마치 경계를 확장해나가는 형태처럼 새롭게 추가되는 녀석들만 추가하면 되었다.  
 ---
 ## 탐색 (Searching)
 ### BFS (Breadth Find Searching)
