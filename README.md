@@ -23,6 +23,17 @@
 10. [암호코드](https://www.acmicpc.net/problem/2011) : [BOJ-2011](https://github.com/20190511/AlgorithmTraining/blob/main/DP/BOJ-2011.py)
 11. [욕심쟁이 판다:DFS+memoization (최장길이)](https://www.acmicpc.net/problem/1937) : [BOJ-1937](https://github.com/20190511/AlgorithmTraining/blob/main/DP/BOJ-1937.py)
 12. [내리막 길:DFS+memoization (경로 수)](https://www.acmicpc.net/problem/1520) : [BOJ-1520](https://github.com/20190511/AlgorithmTraining/blob/main/DP/BOJ-1520.py)
+13. [내리막길: DFS+Memoization](https://www.acmicpc.net/problem/1520): [BOJ-1520](https://github.com/20190511/AlgorithmTraining/blob/main/DP/BOJ-1520.cpp)
+      ```Text
+      해당 문제는 매우 좋은 문제이다.
+      내리막길의 경로의 수를 총합해서 구해줘야한다.
+
+      해당 문제의 아이디어는 재귀호출 시 자동으로 메모이제이션 기능을 활용할 수 있다는 점에 있다.
+      >> dp 를 모두 -1 로 초기화 해준다
+      >> -1 이면 초기값이므로 DFS 진행, -1이 아닌 0이상의 수라면 경로이므로 계속 탐색을 한다..
+      >> dp[x][y] += dfs(x,y); 형태로 이전에 왔던 길을 기록해둔다. (Memoization) 활용.
+      ```
+14. []
 <br>7-A. DP 정리
 ---
 ## 그래프 (Graph)
